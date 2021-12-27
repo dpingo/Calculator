@@ -1,0 +1,28 @@
+Img {
+    width: 500px;
+    height: 500px;
+}
+
+html {
+    background-color: #ffd6eb;
+    border-style: dashed;
+    border-color: cyan;}
+
+    h1 {
+        color: #f0307d;
+    }
+
+    h2 {
+        color: #c474f2;
+    }
+
+    p {
+        color: #7fb5db;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    label {
+        font-size: 20px;
+
+    }
